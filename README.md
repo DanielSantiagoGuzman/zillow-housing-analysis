@@ -15,7 +15,7 @@ Ten years of Zillow Home Value Index data across 1,406 West Coast cities, cleane
 
 ## Business Problem
 
-Real estate investors, homebuyers, and policymakers need to understand **which West Coast markets are undervalued, which are overheated, and what structural factors drive long-term appreciation**. Raw ZHVI data answers "what happened" — this project answers "why" and "what's likely next."
+Real estate investors, homebuyers, and policymakers need to understand **which West Coast markets are undervalued, which are overheated, and what structural factors drive long-term appreciation**. Raw ZHVI data answers "what happened." This project answers "why" and "what's likely next."
 
 ---
 
